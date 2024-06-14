@@ -1,3 +1,7 @@
 jlesage/firefox:latest
 xhofe/alist:latest
+hsuyelin/nas-tools:latest
+amilys/embyserver:latest
+linuxserver/jackett:latest
+johngong/qbittorrent:latest
 superng6/qbittorent:latest
