@@ -4,4 +4,4 @@ hsuyelin/nas-tools:latest
 amilys/embyserver:latest
 linuxserver/jackett:latest
 johngong/qbittorrent:latest
-superng6/qbittorent:latest
+homeassistant/home-assistant:latest
