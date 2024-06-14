@@ -1,4 +1,3 @@
 jlesage/firefox:latest
 xhofe/alist:latest
-superng6/qbittorentee:v4.3.3.10
 superng6/qbittorent:latest
