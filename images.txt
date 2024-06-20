@@ -1,6 +1,1 @@
-jlesage/firefox:latest
-xhofe/alist:latest
-hsuyelin/nas-tools:latest
-amilys/embyserver:latest
-linuxserver/jackett:latest
-jxxghp/moviepilot:latest
+homeassistant
