@@ -3,5 +3,4 @@ xhofe/alist:latest
 hsuyelin/nas-tools:latest
 amilys/embyserver:latest
 linuxserver/jackett:latest
-johngong/qbittorrent:latest
-homeassistant/home-assistant:latest
+jxxghp/moviepilot:latest
